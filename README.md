@@ -6,7 +6,9 @@ To build an intuitive and user-friendly UI for a food delivery mobile applicatio
 ---
 
 ### Focus:
-- ** Order customization, delivery status updates, and UX optimization.
+-  Order customization
+- delivery status updates
+- UX optimization
 
 ---
 
@@ -43,10 +45,12 @@ To build an intuitive and user-friendly UI for a food delivery mobile applicatio
 ![Image](https://github.com/user-attachments/assets/16a99e04-4114-4177-9893-4c34e2bc8340)
 
 ### Splash screen
-- Branding screen on app launch
+
+### Branding screen on app launch
+
 ![Image](https://github.com/user-attachments/assets/ce6b2e48-f323-4d6b-8a60-1bc0e4d82dc7)
 
-- **Error Handling & UX States**
+## Error Handling & UX States
 
 ### Empty cart
 ![Image](https://github.com/user-attachments/assets/b1e3fa03-f1c7-47bc-bb8a-a7734b22a2d6)
